@@ -35,7 +35,7 @@ I love turning ideas into real-world products with clean code and smooth user ex
 ## 🌐 Connect With Me  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge)](https://yourportfolio.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obayemi-olumide-223700325/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Obasco)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nxtgen_prime)  
 
 ---
 ⭐️ From [Obasco](https://github.com/Obasco)  
