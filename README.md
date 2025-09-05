@@ -2,7 +2,7 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obasco&show_icons=true&theme=radical)
 
 <!--
 **Obasco/Obasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
