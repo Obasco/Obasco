@@ -1,3 +1,5 @@
+ img(https://pin.it/5PDGQE8De)
+
 # 👋 Hi, I'm Obasco  
 
 💻 Front-End Developer | ⚡ Passionate about crafting modern, responsive web apps  
